@@ -1,0 +1,14 @@
+.main-navigation li a {
+  padding: 15px;
+  color: #61DAFB;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 10px;
+  border: 3px solid #61DAFB;
+  transition: background-color .3s, color .3s;
+}
+
+.main-navigation li a:hover {
+  color: #fff;
+  background-color: #61DAFB;
+}

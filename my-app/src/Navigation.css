@@ -1,0 +1,8 @@
+.main-navigation ul {
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
